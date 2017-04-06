@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context="com.example.musicalstructure.MyLibararyActivity">
 
+    <TextView
+        android:padding="16dp"
+        android:text="@string/my_library_description"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp" />
+
 </android.support.constraint.ConstraintLayout>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MusicalStructure</string>
+    <string name="now_playing_description">This is the Now Playing activity in this activity will be the music play</string>
+    <string name="my_library_description">This Activity will contain user library of music tracks</string>
+    <string name="discover_music_decription">This Activity will contain suggested tracks based on user taste of music</string>
+    <string name="my_libarary_btn">My Libarary</string>
+    <string name="discover_music_btn">Discover Music</string>
 </resources>
